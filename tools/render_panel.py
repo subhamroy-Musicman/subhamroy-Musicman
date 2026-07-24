@@ -9,7 +9,7 @@ ROWS = [
 def render_panel(output_path, preview=False):
     print(f"Rendering panel to {output_path}...")
     
-    width = 460
+    width = 650
     height = 250
     bg_color = "#0d1117"
     border_color = "#30363d"

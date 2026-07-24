@@ -29,8 +29,8 @@
 <h3><code>$ whoami --verbose</code></h3>
 <table>
   <tr>
-    <td valign="top"><img src="./portrait.svg?v=2" width="360" /></td>
-    <td valign="top"><img src="./sysinfo.svg?v=2" width="460" /></td>
+    <td valign="top"><img src="./portrait.svg?v=3" width="360" /></td>
+    <td valign="top"><img src="./sysinfo.svg?v=3" width="650" /></td>
   </tr>
 </table>
 
