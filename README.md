@@ -29,8 +29,8 @@
 <h3><code>$ whoami --verbose</code></h3>
 <table>
   <tr>
-    <td valign="top"><img src="./portrait.svg" width="360" /></td>
-    <td valign="top"><img src="./sysinfo.svg" width="460" /></td>
+    <td valign="top"><img src="./portrait.svg?v=2" width="360" /></td>
+    <td valign="top"><img src="./sysinfo.svg?v=2" width="460" /></td>
   </tr>
 </table>
 
@@ -79,7 +79,7 @@
 <br><br>
 
 <h3><code>$ cat contributions.log</code></h3>
-<img src="./graph.svg" width="820" />
+<img src="./graph.svg?v=2" width="820" />
 
 <br><br>
 <p align="center">Made with ❤ by Subham</p>
