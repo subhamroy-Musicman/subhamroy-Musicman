@@ -2,7 +2,7 @@ import os
 import argparse
 
 ROWS = [
-    ("role", "Vibe coder, Backend coder"),
+    ("role", "Vibe coder, Full stack developer"),
     ("stack", "JavaScript, React, Node.js, HTML, CSS, Python, C, C++, Java"),
 ]
 
