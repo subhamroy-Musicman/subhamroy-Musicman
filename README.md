@@ -81,4 +81,7 @@
 <h3><code>$ cat contributions.log</code></h3>
 <img src="./graph.svg" width="820" />
 
+<br><br>
+<p align="center">Made with ❤ by Subham</p>
+
 </div>

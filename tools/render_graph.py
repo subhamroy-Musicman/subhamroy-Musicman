@@ -62,6 +62,10 @@ def render_graph(input_path, output_path):
             from {{ opacity: 0; transform: translateY(5px); }}
             to {{ opacity: 1; transform: translateY(0); }}
         }}
+        @keyframes pulse {{
+            0%, 40% {{ opacity: 1; transform: scale(1); }}
+            100% {{ opacity: 0.6; transform: scale(0.95); }}
+        }}
     </style>
     <g transform="translate(20, 20)">
 '''
@@ -79,7 +83,7 @@ def render_graph(input_path, output_path):
             if level > 0:
                 total_commits += 1 # Rough proxy
                 
-            svg += f'        <rect class="cell" x="{x}" y="{y}" fill="{color}" style="animation: fade-in 0.5s {delay}ms forwards;" />\n'
+            svg += f'        <rect class="cell" x="{x}" y="{y}" fill="{color}" style="animation: fade-in 0.5s {delay}ms forwards, pulse 2s {delay + 500}ms infinite alternate;" />\n'
             
     # Add a small legend
     legend_x = width - 120
