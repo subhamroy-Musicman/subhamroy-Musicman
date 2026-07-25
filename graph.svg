@@ -65,7 +65,7 @@
         <rect class="cell" x="90" y="45" fill="#1a1a2e" style="animation: fade-in 0.5s 120ms forwards, pulse 2s 620ms infinite alternate;" />
         <rect class="cell" x="90" y="60" fill="#1a1a2e" style="animation: fade-in 0.5s 120ms forwards, pulse 2s 620ms infinite alternate;" />
         <rect class="cell" x="90" y="75" fill="#1a1a2e" style="animation: fade-in 0.5s 120ms forwards, pulse 2s 620ms infinite alternate;" />
-        <rect class="cell" x="90" y="90" fill="#1c7ed6" style="animation: fade-in 0.5s 120ms forwards, pulse 2s 620ms infinite alternate;" />
+        <rect class="cell" x="90" y="90" fill="#1a1a2e" style="animation: fade-in 0.5s 120ms forwards, pulse 2s 620ms infinite alternate;" />
         <rect class="cell" x="105" y="0" fill="#1a1a2e" style="animation: fade-in 0.5s 140ms forwards, pulse 2s 640ms infinite alternate;" />
         <rect class="cell" x="105" y="15" fill="#1a1a2e" style="animation: fade-in 0.5s 140ms forwards, pulse 2s 640ms infinite alternate;" />
         <rect class="cell" x="105" y="30" fill="#1a1a2e" style="animation: fade-in 0.5s 140ms forwards, pulse 2s 640ms infinite alternate;" />
@@ -243,9 +243,9 @@
         <rect class="cell" x="465" y="90" fill="#1a1a2e" style="animation: fade-in 0.5s 620ms forwards, pulse 2s 1120ms infinite alternate;" />
         <rect class="cell" x="480" y="0" fill="#1a1a2e" style="animation: fade-in 0.5s 640ms forwards, pulse 2s 1140ms infinite alternate;" />
         <rect class="cell" x="480" y="15" fill="#1a1a2e" style="animation: fade-in 0.5s 640ms forwards, pulse 2s 1140ms infinite alternate;" />
-        <rect class="cell" x="480" y="30" fill="#1c7ed6" style="animation: fade-in 0.5s 640ms forwards, pulse 2s 1140ms infinite alternate;" />
+        <rect class="cell" x="480" y="30" fill="#1a1a2e" style="animation: fade-in 0.5s 640ms forwards, pulse 2s 1140ms infinite alternate;" />
         <rect class="cell" x="480" y="45" fill="#1a1a2e" style="animation: fade-in 0.5s 640ms forwards, pulse 2s 1140ms infinite alternate;" />
-        <rect class="cell" x="480" y="60" fill="#1c7ed6" style="animation: fade-in 0.5s 640ms forwards, pulse 2s 1140ms infinite alternate;" />
+        <rect class="cell" x="480" y="60" fill="#1a1a2e" style="animation: fade-in 0.5s 640ms forwards, pulse 2s 1140ms infinite alternate;" />
         <rect class="cell" x="480" y="75" fill="#1a1a2e" style="animation: fade-in 0.5s 640ms forwards, pulse 2s 1140ms infinite alternate;" />
         <rect class="cell" x="480" y="90" fill="#1a1a2e" style="animation: fade-in 0.5s 640ms forwards, pulse 2s 1140ms infinite alternate;" />
         <rect class="cell" x="495" y="0" fill="#1a1a2e" style="animation: fade-in 0.5s 660ms forwards, pulse 2s 1160ms infinite alternate;" />
@@ -355,14 +355,14 @@
         <rect class="cell" x="705" y="90" fill="#1a1a2e" style="animation: fade-in 0.5s 940ms forwards, pulse 2s 1440ms infinite alternate;" />
         <rect class="cell" x="720" y="0" fill="#1a1a2e" style="animation: fade-in 0.5s 960ms forwards, pulse 2s 1460ms infinite alternate;" />
         <rect class="cell" x="720" y="15" fill="#1a1a2e" style="animation: fade-in 0.5s 960ms forwards, pulse 2s 1460ms infinite alternate;" />
-        <rect class="cell" x="720" y="30" fill="#a5d8ff" style="animation: fade-in 0.5s 960ms forwards, pulse 2s 1460ms infinite alternate;" />
-        <rect class="cell" x="720" y="45" fill="#a5d8ff" style="animation: fade-in 0.5s 960ms forwards, pulse 2s 1460ms infinite alternate;" />
-        <rect class="cell" x="720" y="60" fill="#1c7ed6" style="animation: fade-in 0.5s 960ms forwards, pulse 2s 1460ms infinite alternate;" />
-        <rect class="cell" x="720" y="75" fill="#a5d8ff" style="animation: fade-in 0.5s 960ms forwards, pulse 2s 1460ms infinite alternate;" />
-        <rect class="cell" x="720" y="90" fill="#a5d8ff" style="animation: fade-in 0.5s 960ms forwards, pulse 2s 1460ms infinite alternate;" />
-        <rect class="cell" x="735" y="0" fill="#a5d8ff" style="animation: fade-in 0.5s 980ms forwards, pulse 2s 1480ms infinite alternate;" />
+        <rect class="cell" x="720" y="30" fill="#1a1a2e" style="animation: fade-in 0.5s 960ms forwards, pulse 2s 1460ms infinite alternate;" />
+        <rect class="cell" x="720" y="45" fill="#1a1a2e" style="animation: fade-in 0.5s 960ms forwards, pulse 2s 1460ms infinite alternate;" />
+        <rect class="cell" x="720" y="60" fill="#1a1a2e" style="animation: fade-in 0.5s 960ms forwards, pulse 2s 1460ms infinite alternate;" />
+        <rect class="cell" x="720" y="75" fill="#1a1a2e" style="animation: fade-in 0.5s 960ms forwards, pulse 2s 1460ms infinite alternate;" />
+        <rect class="cell" x="720" y="90" fill="#1a1a2e" style="animation: fade-in 0.5s 960ms forwards, pulse 2s 1460ms infinite alternate;" />
+        <rect class="cell" x="735" y="0" fill="#1a1a2e" style="animation: fade-in 0.5s 980ms forwards, pulse 2s 1480ms infinite alternate;" />
         <rect class="cell" x="735" y="15" fill="#1a1a2e" style="animation: fade-in 0.5s 980ms forwards, pulse 2s 1480ms infinite alternate;" />
-        <rect class="cell" x="735" y="30" fill="#a5d8ff" style="animation: fade-in 0.5s 980ms forwards, pulse 2s 1480ms infinite alternate;" />
+        <rect class="cell" x="735" y="30" fill="#1a1a2e" style="animation: fade-in 0.5s 980ms forwards, pulse 2s 1480ms infinite alternate;" />
         <rect class="cell" x="735" y="45" fill="#1a1a2e" style="animation: fade-in 0.5s 980ms forwards, pulse 2s 1480ms infinite alternate;" />
         <rect class="cell" x="735" y="60" fill="#1a1a2e" style="animation: fade-in 0.5s 980ms forwards, pulse 2s 1480ms infinite alternate;" />
         <rect class="cell" x="735" y="75" fill="#1a1a2e" style="animation: fade-in 0.5s 980ms forwards, pulse 2s 1480ms infinite alternate;" />
@@ -385,8 +385,9 @@
         <rect class="cell" x="780" y="15" fill="#1a1a2e" style="animation: fade-in 0.5s 1040ms forwards, pulse 2s 1540ms infinite alternate;" />
         <rect class="cell" x="780" y="30" fill="#1a1a2e" style="animation: fade-in 0.5s 1040ms forwards, pulse 2s 1540ms infinite alternate;" />
         <rect class="cell" x="780" y="45" fill="#1a1a2e" style="animation: fade-in 0.5s 1040ms forwards, pulse 2s 1540ms infinite alternate;" />
-        <rect class="cell" x="780" y="60" fill="#1c7ed6" style="animation: fade-in 0.5s 1040ms forwards, pulse 2s 1540ms infinite alternate;" />
-        <rect class="cell" x="780" y="75" fill="#1c7ed6" style="animation: fade-in 0.5s 1040ms forwards, pulse 2s 1540ms infinite alternate;" />
+        <rect class="cell" x="780" y="60" fill="#1a1a2e" style="animation: fade-in 0.5s 1040ms forwards, pulse 2s 1540ms infinite alternate;" />
+        <rect class="cell" x="780" y="75" fill="#1a1a2e" style="animation: fade-in 0.5s 1040ms forwards, pulse 2s 1540ms infinite alternate;" />
+        <rect class="cell" x="780" y="90" fill="#1a1a2e" style="animation: fade-in 0.5s 1040ms forwards, pulse 2s 1540ms infinite alternate;" />
 
     </g>
     <g transform="translate(715, 130)">
