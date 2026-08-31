@@ -37,7 +37,7 @@
     <g class="animated-row" style="animation-delay: 400ms;">
         <text class="accent" x="30" y="70">$</text>
         <text class="label" x="50" y="70">role</text>
-        <text class="text" x="120" y="70">Vibe coder, Full stack developer</text>
+        <text class="text" x="120" y="70">AI Developer, Full stack developer</text>
     </g>
 
     <g class="animated-row" style="animation-delay: 800ms;">
