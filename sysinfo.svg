@@ -43,7 +43,7 @@
     <g class="animated-row" style="animation-delay: 800ms;">
         <text class="accent" x="30" y="105">$</text>
         <text class="label" x="50" y="105">stack</text>
-        <text class="text" x="120" y="105">JavaScript, React, Node.js, HTML, CSS, Python, C, C++, Java</text>
+        <text class="text" x="120" y="105">MongoDB, React, Node.js, HTML5, CSS3, Pytorch, MySQL</text>
     </g>
 
     <g class="animated-row" style="animation-delay: 1200ms;">
