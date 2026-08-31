@@ -37,13 +37,13 @@
     <g class="animated-row" style="animation-delay: 400ms;">
         <text class="accent" x="30" y="70">$</text>
         <text class="label" x="50" y="70">role</text>
-        <text class="text" x="120" y="70">AI Developer, Full stack developer</text>
+        <text class="text" x="120" y="70">AI Developer, Full stack developer, Blockchain Developer</text>
     </g>
 
     <g class="animated-row" style="animation-delay: 800ms;">
         <text class="accent" x="30" y="105">$</text>
         <text class="label" x="50" y="105">stack</text>
-        <text class="text" x="120" y="105">MongoDB, React, Node.js, HTML5, CSS3, Pytorch, MySQL</text>
+        <text class="text" x="120" y="105">MongoDB, React, Node.js, HTML5, CSS3, Pytorch, MySQL, Ethereum, Solanum, Injective</text>
     </g>
 
     <g class="animated-row" style="animation-delay: 1200ms;">
