@@ -1,6 +1,6 @@
 {
   "username": "dummyuser",
-  "total_days": 367,
+  "total_days": 368,
   "days": [
     {
       "date": "2025-08-31",
@@ -1468,6 +1468,10 @@
     },
     {
       "date": "2026-09-01",
+      "level": 0
+    },
+    {
+      "date": "2026-09-02",
       "level": 0
     }
   ]
