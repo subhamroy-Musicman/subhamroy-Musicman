@@ -385,6 +385,7 @@
         <rect class="cell" x="780" y="15" fill="#1a1a2e" style="animation: fade-in 0.5s 1040ms forwards, pulse 2s 1540ms infinite alternate;" />
         <rect class="cell" x="780" y="30" fill="#1a1a2e" style="animation: fade-in 0.5s 1040ms forwards, pulse 2s 1540ms infinite alternate;" />
         <rect class="cell" x="780" y="45" fill="#1a1a2e" style="animation: fade-in 0.5s 1040ms forwards, pulse 2s 1540ms infinite alternate;" />
+        <rect class="cell" x="780" y="60" fill="#1a1a2e" style="animation: fade-in 0.5s 1040ms forwards, pulse 2s 1540ms infinite alternate;" />
 
     </g>
     <g transform="translate(715, 130)">
